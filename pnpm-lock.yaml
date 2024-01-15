@@ -15,8 +15,8 @@ dependencies:
     specifier: ^1.3.5
     version: 1.3.5(undici@5.28.2)
   '@qwikdev/astro':
-    specifier: ^0.4.0
-    version: 0.4.0(@builder.io/qwik@1.3.5)(typescript@5.3.3)
+    specifier: ^0.3.5
+    version: 0.3.9(@builder.io/qwik@1.3.5)(typescript@5.3.3)
   astro:
     specifier: ^4.1.2
     version: 4.1.2(typescript@5.3.3)
@@ -698,8 +698,8 @@ packages:
       fastq: 1.16.0
     dev: false
 
-  /@qwikdev/astro@0.4.0(@builder.io/qwik@1.3.5)(typescript@5.3.3):
-    resolution: {integrity: sha512-6Rl2FhFJZMcphXpV5nY2RvxnojllxUTatiOPOjqKndAkJLr7fOs1Uxf87HFHUVcF23z+xvuOR2rKVMTqImq7HA==}
+  /@qwikdev/astro@0.3.9(@builder.io/qwik@1.3.5)(typescript@5.3.3):
+    resolution: {integrity: sha512-X5F9TPmu4Wi1XV9OJCRI+8HvmWyuzNtlCa5J5PhEKOmU7UUmKWFBLGGh1X676vlleBDxFrUAUMRmfLA10/Sq6w==}
     peerDependencies:
       '@builder.io/qwik': ^1.3.4
       typescript: ^5.3.2
